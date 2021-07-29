@@ -3,9 +3,9 @@
  
  Dataset - https://www.kaggle.com/lasaljaywardena/sri-lanka-vehicle-prices-dataseta
  
- Video Link - youtube.com/watch?v=x-FBs4RrAYo
+ Video Link - https://www.youtube.com/watch?v=x-FBs4RrAYo
  
- DM Me On Instagram for Sourcr Code.
+ DM Me On Instagram for Dashbord Source Code.
  
  Connect with us:
 
