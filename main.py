@@ -380,10 +380,6 @@ app.layout = dbc.Container(fluid=True, children=[
     children=[
         html.Div(
             children=[
-                html.P(children="🦅", className="header-emoji"),
-                html.H1(
-                    children="FreeBirds Crew", className="header-title"
-                ),
                 html.P(
                     children="EDA on the Basis of Condition and Impact on Price",
                     className="header-description",
@@ -443,10 +439,6 @@ app.layout = dbc.Container(fluid=True, children=[
     children=[
         html.Div(
             children=[
-                html.P(children="🦅", className="header-emoji"),
-                html.H1(
-                    children="FreeBirds Crew", className="header-title"
-                ),
                 html.P(
                     children="Analysis on the basis of Transmission and Body and Which is Best !",
                     className="header-description",
