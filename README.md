@@ -49,12 +49,7 @@
          <li><a href="#installation">Installation</a></li>
        </ul>
      </li>
-     <li><a href="#usage">Usage</a></li>
-     <li><a href="#roadmap">Roadmap</a></li>
-     <li><a href="#contributing">Contributing</a></li>
      <li><a href="#license">License</a></li>
-     <li><a href="#contact">Contact</a></li>
-     <li><a href="#acknowledgements">Acknowledgements</a></li>
    </ol>
  </details>
 
@@ -127,7 +122,7 @@
  <!-- CONTACT -->
  ## Contact
 
- Your Name - [@your_twitter](https://twitter.com/Itsexceptional1) - simranjeetsingh1497@gmail.com
+ Simranjeet Singh - [Twitter](https://twitter.com/Itsexceptional1) - simranjeetsingh1497@gmail.com
 
  Project Link: [https://github.com/your_username/repo_name](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
  
