@@ -13,7 +13,7 @@ import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output
 
-external_stylesheets = ['https://raw.githubusercontent.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/main/assets/style.css']
+external_stylesheets = ['https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/blob/main/assets/style.css']
 app = dash.Dash(external_stylesheets=[external_stylesheets,dbc.themes.UNITED])
 app.title = "FreeBirds Crew : Car Price Analysis and Dashboard"
 server=app.server
