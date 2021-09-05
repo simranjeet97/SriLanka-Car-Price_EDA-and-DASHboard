@@ -193,7 +193,7 @@ bodyfig.update_xaxes(visible =False, showticklabels=False)
 external_stylesheets = ['E:\\Sensex Prediction\\Car Analysis\\assets\\style.css']
 app = dash.Dash(external_stylesheets=[external_stylesheets,dbc.themes.UNITED])
 app.title = "FreeBirds Crew : Car Price Analysis and Dashboard"
-
+app = dash.Dash(__name__)
 #------------------------------------------------------------------Dash App Layout Work---------------------------------------------------------#
 app.layout = dbc.Container(fluid=True, children=[
 	#HEADER
