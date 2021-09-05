@@ -106,12 +106,14 @@
  ### Prerequisites
 
  Install all the Libraries needed for the Project.
- * npm
+ * Requirements
+   
    ```sh
    pip install -r requirements.txt
    ```
 
  ### Run the App
+   
    ```python
    python main.py
 
