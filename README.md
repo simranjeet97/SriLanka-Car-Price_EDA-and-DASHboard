@@ -75,24 +75,30 @@
 ## About The Project
 
 Filter Out Best Cars for Price on the Basis of Condition -  Transmission - Fuel - Date Range
+
 [![Product1][product-screenshot1]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
 Filter Out Best Cars for Price, Mileage, Condition on the Basis of Model and Seller Type
+
 [![Product2][product-screenshot2]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
 Get to know the Price Distribution in different conditions and impact on Price by Mileage_Km
+
 [![Product3][product-screenshot3]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
 Top Transmission Based Cars wuth Condition and Body Based along with Price!
+
 [![Product4][product-screenshot4]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
 All Transmission Based on Conditions, Most Used is "Automatic" along with All Body Type based on Conditions, Most Used is "Hatchback"
+
 [![Product5][product-screenshot5]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
 
 This Project Helps me to Learn more about Feature Engineering While Building Machine Learning Model using RandomForestRegressor - RandomizedSearchCV ( For HyperParameter Tune ) - ExtraTreesRegressor also for getting Feature Importance.
 
 Here are the Plots After Prediction for X_Test ( Y_Test - Prediction )
+
 [![Product5][product-screenshot6]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
 [![Product5][product-screenshot7]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
