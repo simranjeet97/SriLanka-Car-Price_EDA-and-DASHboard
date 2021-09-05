@@ -112,11 +112,12 @@
    ```
 
  ### Run the App
-    ```python
-    python main.py
-    ```
+ ```python
+ python main.py
 
- <!-- LICENSE -->
+```
+
+<!-- LICENSE -->
  ## License
 
  Distributed under the MIT License. See `LICENSE` for more information.
