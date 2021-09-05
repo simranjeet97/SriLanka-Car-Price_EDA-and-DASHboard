@@ -1,9 +1,9 @@
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install plotly
-pip install dash
-pip install dash_bootstrap_components
-pip install dash_core_components
-pip install dash_html_components
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+dash
+dash_bootstrap_components
+dash_core_components
+dash_html_components
