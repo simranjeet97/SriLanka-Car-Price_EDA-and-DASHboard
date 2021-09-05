@@ -1,14 +1,3 @@
- # SriLanka-Car-Price_EDA-and-DASHboard
-  Sri Lanka Car Price EDA and Dashboard made in DASH using Python
-
-  Dataset - https://www.kaggle.com/lasaljaywardena/sri-lanka-vehicle-prices-dataseta
-
-  Video Link - https://www.youtube.com/watch?v=x-FBs4RrAYo
-
-  Deployed at - https://srilankacarprice.herokuapp.com/
-
-  DM Me On Instagram for Dashbord Source Code.
-
  [![Contributors][contributors-shield]][contributors-url]
  [![Forks][forks-shield]][forks-url]
  [![Stargazers][stars-shield]][stars-url]
@@ -144,6 +133,10 @@
  Your Name - [@your_twitter](https://twitter.com/Itsexceptional1) - simranjeetsingh1497@gmail.com
 
  Project Link: [https://github.com/your_username/repo_name](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+ 
+ Dataset - [Dataset](https://www.kaggle.com/lasaljaywardena/sri-lanka-vehicle-prices-dataseta)
+ 
+ Youtube Video for the Project - [Youtube](https://www.youtube.com/watch?v=x-FBs4RrAYo)
 
  <!-- MARKDOWN LINKS & IMAGES -->
  <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
