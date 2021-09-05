@@ -235,8 +235,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [product-screenshot3]: Images/third.png
 [product-screenshot4]: Images/four.png
 [product-screenshot5]: Images/five.png
-[product-screenshot5]: Images/prediction_erros.png
-[product-screenshot5]: Images/scatter_plot.png
+[product-screenshot6]: Images/prediction_erros.png
+[product-screenshot7]: Images/scatter_plot.png
 
  Connect with us:
 
