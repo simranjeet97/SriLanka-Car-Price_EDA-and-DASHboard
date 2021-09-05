@@ -85,12 +85,6 @@
 
  [![Product5][product-screenshot5]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
- Here are the Plots After Prediction for X_Test ( Y_Test - Prediction )
-
- [![Product5][product-screenshot6]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
-
- [![Product5][product-screenshot7]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
-
  ### Built With
 
  I Build this Project using following technologies and Platforms - 
@@ -118,7 +112,7 @@
    ```
 
  ### Run the App
-    ```py
+    ```python
     python main.py
     ```
 
@@ -157,9 +151,7 @@
  [product-screenshot3]: Images/third.png
  [product-screenshot4]: Images/four.png
  [product-screenshot5]: Images/five.png
- [product-screenshot6]: Images/prediction_erros.png
- [product-screenshot7]: Images/scatter_plot.png
-
+ 
   Connect with us:
 
  [<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
