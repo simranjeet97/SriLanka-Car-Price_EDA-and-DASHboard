@@ -112,10 +112,10 @@
    ```
 
  ### Run the App
- ```python
- python main.py
+   ```python
+   python main.py
 
-```
+   ```
 
 <!-- LICENSE -->
  ## License
