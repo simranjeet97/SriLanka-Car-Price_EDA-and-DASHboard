@@ -14,7 +14,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/simranjeet97]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -74,13 +74,28 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Front][FrontEnd-Project]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/blob/main/Images/front.png)
-[![Second][FrontEnd_two-Project]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/blob/main/Images/second.png)
-[![Third][FrontEnd_three-Project]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/blob/main/Images/third.png)
-[![Four][FrontEnd_four-Project]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/blob/main/Images/four.png)
-[![Five][FrontEnd_five-Project]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard/blob/main/Images/five.png)
+Filter Out Best Cars for Price on the Basis of Condition -  Transmission - Fuel - Date Range
+[![Product1][product-screenshot1]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Filter Out Best Cars for Price, Mileage, Condition on the Basis of Model and Seller Type
+[![Product2][product-screenshot2]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+
+Get to know the Price Distribution in different conditions and impact on Price by Mileage_Km
+[![Product3][product-screenshot3]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+
+Top Transmission Based Cars wuth Condition and Body Based along with Price!
+[![Product4][product-screenshot4]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+
+All Transmission Based on Conditions, Most Used is "Automatic" along with All Body Type based on Conditions, Most Used is "Hatchback"
+[![Product5][product-screenshot5]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+
+
+This Project Helps me to Learn more about Feature Engineering While Building Machine Learning Model using RandomForestRegressor - RandomizedSearchCV ( For HyperParameter Tune ) - ExtraTreesRegressor also for getting Feature Importance.
+
+Here are the Plots After Prediction for X_Test ( Y_Test - Prediction )
+[![Product5][product-screenshot6]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+
+[![Product5][product-screenshot7]](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -209,9 +224,13 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-
-
+[product-screenshot1]: Images/front.png
+[product-screenshot2]: Images/second.png
+[product-screenshot3]: Images/third.png
+[product-screenshot4]: Images/four.png
+[product-screenshot5]: Images/five.png
+[product-screenshot5]: Images/prediction_erros.png
+[product-screenshot5]: Images/scatter_plot.png
 
  Connect with us:
 
