@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-dash
-dash_bootstrap_components
-dash_core_components
-dash_html_components
