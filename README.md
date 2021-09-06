@@ -124,7 +124,7 @@
 
  Simranjeet Singh - [Twitter](https://twitter.com/Itsexceptional1) - simranjeetsingh1497@gmail.com
 
- Project Link: [https://github.com/your_username/repo_name](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
+ Project Link: [CarPrice_Prediction](https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard)
  
  Dataset - [Dataset](https://www.kaggle.com/lasaljaywardena/sri-lanka-vehicle-prices-dataseta)
  
