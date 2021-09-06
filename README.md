@@ -10,7 +10,7 @@
  <!-- PROJECT LOGO -->
  <br />
  <p align="center">
-   <a href="https://github.com/othneildrew/Best-README-Template">
+   <a href="https://github.com/simranjeet97/SriLanka-Car-Price_EDA-and-DASHboard">
      <img src="dp.png" alt="Logo" width="80" height="80">
    </a>
 
